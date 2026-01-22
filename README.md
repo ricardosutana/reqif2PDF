@@ -41,7 +41,7 @@ pip install reportlab
 
 The script assumes a typical ReqIF export layout:
 
-```text
+```
 project_folder/
 ├─ requirements.reqif
 ├─ image_001.png
@@ -49,3 +49,12 @@ project_folder/
 ├─ object_123.ole
 ├─ object_456.ole
 ├─ export_reqif_pdf.py
+
+
+## 📝 Note
+
+This is a **personal project**, provided as **free and open access**.
+
+If you encounter bugs, issues, or unexpected behavior, please **report them directly to the author** using the repository’s issue tracker.
+
+Feedback, suggestions, and improvements are welcome.
