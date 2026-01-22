@@ -1,0 +1,48 @@
+# =========================
+# ReqIF input files
+# =========================
+*.reqif
+*.reqifz
+
+# =========================
+# Embedded / referenced objects
+# =========================
+*.ole
+
+# =========================
+# Images referenced by ReqIF
+# =========================
+*.png
+*.jpg
+*.jpeg
+*.bitmap
+
+# =========================
+# Generated documentation / outputs
+# =========================
+*.pdf
+docs/
+output/
+build/
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env/
+.venv/
+
+# =========================
+# OS / Editor files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
