@@ -1,13 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-Exportador ReqIF → PDF
-- Numeração hierárquica (1.2.3)
-- ID simplificado [REQ-000123]
-- Imagens PNG/JPG
-- Links clicáveis para objetos OLE
-"""
 
 import xml.etree.ElementTree as ET
 import re
