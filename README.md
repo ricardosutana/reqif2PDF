@@ -41,7 +41,7 @@ pip install reportlab
 
 The script assumes a typical ReqIF export layout:
 
-```
+```text
 project_folder/
 ├─ requirements.reqif
 ├─ image_001.png
