@@ -16,6 +16,14 @@ The generated PDF preserves:
 
 ---
 
+## 📝 Note
+
+This is a **personal project**, provided as **free and open access**.
+
+If you encounter bugs, issues, or unexpected behavior, please **report them directly to the author** using the repository’s issue tracker.
+
+Feedback, suggestions, and improvements are welcome.
+
 ## 🖥 System Requirements
 
 - Windows 10 / 11 (recommended)
@@ -52,10 +60,4 @@ project_folder/
 
 ---
 
-## 📝 Note
 
-This is a **personal project**, provided as **free and open access**.
-
-If you encounter bugs, issues, or unexpected behavior, please **report them directly to the author** using the repository’s issue tracker.
-
-Feedback, suggestions, and improvements are welcome.
