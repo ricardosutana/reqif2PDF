@@ -50,7 +50,7 @@ project_folder/
 ├─ object_456.ole
 ├─ export_reqif_pdf.py
 
-
+---
 ## 📝 Note
 
 This is a **personal project**, provided as **free and open access**.
