@@ -8,6 +8,7 @@
 # Embedded / referenced objects
 # =========================
 *.ole
+*.wmf
 
 # =========================
 # Images referenced by ReqIF
@@ -15,7 +16,7 @@
 *.png
 *.jpg
 *.jpeg
-*.bitmap
+*.bmp
 
 # =========================
 # Generated documentation / outputs
