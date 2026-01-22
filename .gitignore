@@ -47,3 +47,9 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
+
+
+# =========================
+# Folders to ignore
+# =========================
+docs/
