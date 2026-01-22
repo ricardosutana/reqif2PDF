@@ -44,6 +44,7 @@ This project depends on the following external Python library:
 ```bash
 pip install reportlab
 
+---
 
 ## 📁 Expected Folder Structure
 
